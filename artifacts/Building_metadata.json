@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "isLastFloor",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Elevator/ElevatorAttack.sol": "Building"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Elevator/ElevatorAttack.sol": {
+			"keccak256": "0x699cada7574cea64efa6f3312c5cd4a83d73734ab5caddc9d2436495eb42fc35",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ab63d557128a5a0dcbd3d33586e1d0eb645a5be4d87aa60b6ee0cbe49d676aa7",
+				"dweb:/ipfs/QmWdV84fMF4U8EAXFDkxJCzD45pV5FbUsVekHByptAVp1A"
+			]
+		}
+	},
+	"version": 1
+}
