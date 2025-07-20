@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Force/ForceAttack.sol": "IForce"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Force/ForceAttack.sol": {
+			"keccak256": "0xe8007fc29d000aff47dabcfaf4b66b0b992b31bf82f953e3c23223bf671c8d72",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2c20cf440ba82fb463ae9fc08a68f0662ac832e77ed2a03c288de378e52d658e",
+				"dweb:/ipfs/QmPNLnwga4aPemgbNPipwiM1qSHTUFjSNoVpno3mK6L35j"
+			]
+		}
+	},
+	"version": 1
+}

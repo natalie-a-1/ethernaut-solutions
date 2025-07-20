@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/King/KingAttack.sol": "KingAttack"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/King/KingAttack.sol": {
+			"keccak256": "0xb1a66d168d6b41f0c9db6e12e0e7633e9a79ace81874fd21135e892f158c2a09",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://55bbb81463d667a799a87709f5d4fd12af687b1f101b6eab9454ceb9a246465c",
+				"dweb:/ipfs/QmfEQUgQSknu4qGkrp2Jv2QGcV8NNVbf1HS2Whik2Yd6Tt"
+			]
+		}
+	},
+	"version": 1
+}

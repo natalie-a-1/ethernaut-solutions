@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Telephone/telephoneAttacks.sol": "IT"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Telephone/telephoneAttacks.sol": {
+			"keccak256": "0x486c367aa3348957311dfa9d5454c25a996fc42221968fef5f0e0c24aefb2713",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f732622c60272e88d2d701b0df44a6dcdcd02af80d86f89202cbf84870f5c545",
+				"dweb:/ipfs/QmVXMGoAqX35EsK5Hhm4TsFE5qUWuDpw1y6WLJj4etBUAp"
+			]
+		}
+	},
+	"version": 1
+}

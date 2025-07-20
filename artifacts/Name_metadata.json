@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Token/TokenAttack.sol": "Name"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Token/TokenAttack.sol": {
+			"keccak256": "0xaaf6d3b5fb15e06aa44881a46e3c9ff558884a52ca7def71e28cc219102ada89",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b2b26cf616cc3213b10f69bdaae857b102efa3b3bfcfe223a4793d212894ca3a",
+				"dweb:/ipfs/QmbPWn44Zin33LfsCi8x4saWbPLgMciJPudxaipKG9sWju"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_instance",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "attack",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "game",
+				"outputs": [
+					{
+						"internalType": "contract ICoinFlip",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CoinFlip/CoinFlipSolver.sol": "CoinFlipSolver"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CoinFlip/CoinFlipSolver.sol": {
+			"keccak256": "0x0a341540feee6eac97f4a906a7cf959aedf12594596e3288b095c8c7a76084d2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0fbf04eed78219eb95a7bbee98ee33638e5a91eccf5eaaea96ae9196c860ad2a",
+				"dweb:/ipfs/QmW6w5REKfAExNNuQNfFAbNwzyRSBx3mxuGkFJ2QHJHoVR"
+			]
+		}
+	},
+	"version": 1
+}

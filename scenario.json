@@ -1,0 +1,23 @@
+{
+  "accounts": {
+    "account{0}": "0x6Ca9f9a81b30E1D6fea59daae831aE9Ff2a91d18"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1752610309977,
+      "record": {
+        "value": "0",
+        "inputs": "(bool)",
+        "parameters": [
+          true
+        ],
+        "name": "flip",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {}
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					}
+				],
+				"name": "donate",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Reentrancy/ReentranceAttack.sol": "IReentrance"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Reentrancy/ReentranceAttack.sol": {
+			"keccak256": "0x9bdaf9539d6c1907b1b07f7342aa201810388bdc7139e498f660784f746e3e6a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4eb5688e339614e10d5c7fa4a2fdd0233156800388be8369767b3e273a02d570",
+				"dweb:/ipfs/QmdZKWJqcvJ2dUkkNVtouCBNcw4P5PqAsRHMV35vMrcUJi"
+			]
+		}
+	},
+	"version": 1
+}
